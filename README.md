@@ -8,7 +8,7 @@ Ele foi criado como um protótipo para um sistema de perguntas e respostas para 
 
 Esse repositório conta com:
 - Link para minha base de dados no Drive (LER AVISOS IMPORTANTES): https://drive.google.com/drive/folders/1EAejeMPJpSTachpdoHY5MTdu4Szus2N0
-- Base_CEA_Simulados que também está incluso no Drive se achar necessário. 
+- Base_CEA_Simulados que também está incluso no Drive se achar necessário: [https://colab.research.google.com/drive/1OfCbt6T5xNvvSX4MGaLtNRSJek7hoG_Z?usp=drive_link](https://colab.research.google.com/drive/1OfCbt6T5xNvvSX4MGaLtNRSJek7hoG_Z)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Funcionalidades em Andamento
@@ -26,7 +26,7 @@ Esse repositório conta com:
     *   Certifique-se de que a pasta `CEA_Simulado` esteja localizada no seu Google Drive em: `'/content/drive/MyDrive/CEA_Simulado'`.
     *   Isso é essencial para que o programa encontre as imagens das questões corretamente.
     *   **Atualize o caminho no código para apontar para a sua pasta no Google Drive.**
-
+*   **Aconselho usar o link e fazer uma cópia direto pelo colab:**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Este projeto é um projeto pessoal e de testes. Sinta-se livre para contribuir com melhorias, novas funcionalidades, ou correções de bugs.
